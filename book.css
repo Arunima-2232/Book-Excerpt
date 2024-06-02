@@ -1,0 +1,103 @@
+body {
+    background-image: url(https://images.unsplash.com/photo-1573320286044-b43a4168fb40?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDR8fGNhbWVyYXxlbnwwfHwwfHx8MA%3D%3D);
+    font-size: 1rem;
+    font-family: "LXGW WenKai TC", cursive;
+    background-position: center;
+
+}
+.wrapper{
+    width:70%;
+    margin:1rem auto;
+    color: #1F2526;
+    background-color: #C5D3D9;
+    padding: 2rem;
+}
+h1{
+    background-color: #1F2526;
+    color: #C5D3D9;
+    text-align: center;
+    font-size: 3rem;
+    font-weight: bolder;
+    margin: 0;
+}
+header{
+    width:80%;
+    margin:2rem auto;
+    background-color: #92A0A6;
+    color: #1F2526;
+    font-weight: bold;
+    font-size:1.2rem;
+    text-align: justify;
+    padding:1rem 1.5rem 1rem 1.5rem;
+    border-radius: 20px;
+}
+.one{
+    display: flex;
+    margin:1rem 2rem;
+}
+.one img{
+    float: left;
+    border-radius: 20px;
+    width:90%;
+    height:80%;
+    margin:1.8rem 0 0 0;
+}
+.one p{
+    text-align: justify;
+    width:60%;
+    height:70%;
+    margin:3rem 0 0 0;
+    justify-content: center;
+}
+.two{
+    display: flex;
+    margin:0 2rem 1rem 2rem;
+    padding:0 0 2.2rem 0;
+}
+.two img{
+    float: left;
+    border-radius: 20px;
+    width:90%;
+    height:90%;
+    margin:2rem 0 0 0;
+}
+.two p{
+    text-align: justify;
+    width:60%;
+    height:70%;
+    margin:3.5rem 0 0 0;
+    justify-content: center;
+}
+.three{
+    display: flex;
+    margin:1rem 2rem;
+}
+.three img{
+    float: left;
+    border-radius: 20px;
+    width:90%;
+    height:80%;
+    margin:1.8rem 0 0 0;
+}
+.three p{
+    text-align: justify;
+    width:60%;
+    height:70%;
+    margin:2.5rem 0 0 0;
+    justify-content: center;
+}
+footer{
+    border-top: 2px solid #455159;
+    font-size:0.8rem;
+    font-style: oblique;
+    margin-top:2rem;
+}
+footer p{
+    margin-top:1.5rem;
+}
+footer cite{
+    font-weight: bold;
+}
+footer a{
+    font-size: 0.9rem;
+}
